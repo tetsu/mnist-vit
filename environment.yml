@@ -1,0 +1,9 @@
+name: mnist-vit
+dependencies:
+  - pytorch
+  - torchvision
+  - numpy
+  - pip
+  - pip:
+    - torch
+    - torchvision
